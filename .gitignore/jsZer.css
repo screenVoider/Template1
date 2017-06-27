@@ -1,0 +1,21 @@
+
+
+#topper
+{
+	width: 100%;
+	height: 40px;
+	background: blue;
+	margin: auto;
+}
+
+button
+{
+	margin: auto;
+}
+
+@media only screen and (max-width: 500px)
+{
+    body {
+        background: lightblue;
+    }
+}
